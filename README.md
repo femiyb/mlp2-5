@@ -23,7 +23,7 @@ A WordPress plugin that facilitates the migration of site relationships and cont
   
 ## 📦 Installation  
   
-1. Download the plugin file (`mlp2-5.php`)  
+1. Download the plugin file (`mlp2-5`)  
 2. Upload it to your WordPress plugins directory: `/wp-content/plugins/mlp2-5/`  
 3. **Network activate** the plugin from Network Admin → Plugins  
   

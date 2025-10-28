@@ -31,12 +31,13 @@ A WordPress plugin that facilitates the migration of site relationships and cont
   
 ### Step 1: Export from MLP 2  
   
-1. Ensure **MLP 2 is active** on your WordPress network  
-2. Navigate to **Network Admin → MLP Migration**  
-3. Click **"Export Relationships"** to download a JSON file containing:  
+1. Ensure **MLP 2 is active** on your WordPress network
+2. Do not activate MLP 5 at this point
+3. Navigate to **Network Admin → MLP Migration**  
+4. Click **"Export Relationships"** to download a JSON file containing:  
    - All site relationships from the `mlp_site_relations` table  
    - All content relationships (posts, terms) from the `multilingual_linked` table  
-4. Save the downloaded JSON file (named `mlp-migration-YYYY-MM-DD-HHMMSS.json`)  
+5. Save the downloaded JSON file (named `mlp-migration-YYYY-MM-DD-HHMMSS.json`)  
   
 ### Step 2: Switch to MLP 5  
   
